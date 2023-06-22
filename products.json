@@ -1,0 +1,77 @@
+{
+    "Caffeino Classic": {
+      "name": "Caffeino Classic",
+      "category": "Espresso Machines",
+      "brand": "EliteBrew",
+      "model_number": "EB-1001",
+      "warranty": "2 years",
+      "rating": "4.6/5 stars",
+      "features": [
+        "15-bar pump for authentic espresso extraction.",
+        "Milk frother for creating creamy cappuccinos and lattes.",
+        "Removable water reservoir for easy refilling."
+      ],
+      "description": "The Caffeino Classic by EliteBrew is a powerful espresso machine that delivers rich and flavorful shots of espresso with the convenience of a built-in milk frother, perfect for indulging in your favorite cafe-style beverages at home.",
+      "price": "£179.99"
+    },
+    "BeanPresso": {
+      "name": "BeanPresso",
+      "category": "Single Serve Coffee Makers",
+      "brand": "FreshBrew",
+      "model_number": "FB-500",
+      "warranty": "1 year",
+      "rating": "4.3/5 stars",
+      "features": [
+        "Compact design ideal for small spaces or travel.",
+        "Compatible with various coffee pods for quick and easy brewing.",
+        "Auto-off feature for energy efficiency and safety."
+      ],
+      "description": "The BeanPresso by FreshBrew is a compact single-serve coffee maker that allows you to enjoy a fresh cup of coffee effortlessly using your favorite coffee pods, making it the perfect companion for those with limited space or always on the go.",
+      "price": "£49.99"
+    },
+    "BrewBlend Pro": {
+      "name": "BrewBlend Pro",
+      "category": "Drip Coffee Makers",
+      "brand": "MasterRoast",
+      "model_number": "MR-800",
+      "warranty": "3 years",
+      "rating": "4.7/5 stars",
+      "features": [
+        "Adjustable brew strength for customized coffee flavor.",
+        "Large LCD display with programmable timer for convenient brewing.",
+        "Anti-drip system to prevent messes on the warming plate."
+      ],
+      "description": "The BrewBlend Pro by MasterRoast offers a superior brewing experience with adjustable brew strength, programmable timer, and anti-drip system, ensuring a perfectly brewed cup of coffee every time, making mornings more enjoyable.",
+      "price": "£89.99"
+    },
+    "SteamGenie": {
+      "name": "SteamGenie",
+      "category": "Stovetop Coffee Makers",
+      "brand": "KitchenWiz",
+      "model_number": "KW-200",
+      "warranty": "2 years",
+      "rating": "4.4/5 stars",
+      "features": [
+        "Classic Italian stovetop design for rich and aromatic coffee.",
+        "Durable stainless steel construction for long-lasting performance.",
+        "Available in multiple sizes to suit different brewing needs."
+      ],
+      "description": "The SteamGenie by KitchenWiz is a traditional stovetop coffee maker that harnesses the essence of Italian coffee culture, crafted with durable stainless steel and delivering a rich, authentic coffee experience with every brew.",
+      "price": "£39.99"
+    },
+    "AeroBlend Max": {
+      "name": "AeroBlend Max",
+      "category": "Vacuum Coffee Press",
+      "brand": "AeroGen",
+      "model_number": "AG-1200",
+      "warranty": "2 years",
+      "rating": "4.9/5 stars",
+      "features": [
+        "Dual-functionality for brewing coffee and espresso.",
+        "Built-in burr grinder for fresh coffee grounds.",
+        "Adjustable temperature and brew strength settings for personalized beverages."
+      ],
+      "description": "The AeroBlend Max by AeroGen is a versatile coffee and espresso combo machine that combines the convenience of brewing both coffee and espresso with a built-in grinder, allowing you to enjoy the perfect cup of your preferred caffeinated delight with ease.",
+      "price": "£299.99"
+    }
+}
