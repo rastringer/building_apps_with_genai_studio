@@ -1,3 +1,5 @@
+# Helper functions from [DeepLearning AI's 'Building Systems with the ChatGPT API' course](https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/introduction)
+
 import json 
 from collections import defaultdict
 
